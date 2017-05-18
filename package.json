@@ -2,7 +2,7 @@
   "name": "calculator",
   "version": "1.0.0",
   "description": "Simple calculator app using react",
-  "main": "index.js",
+  "main": "webpack.config.js",
   "dependencies": {
     "react": "^0.14.9",
     "react-dom": "^0.14.6"
